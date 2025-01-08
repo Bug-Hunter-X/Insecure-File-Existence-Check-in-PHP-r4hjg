@@ -1,0 +1,1 @@
+This repository demonstrates a common insecure file existence check in PHP and its secure alternative. The `bug.php` file showcases the insecure practice of using `@file_exists()` without proper sanitization, while `bugSolution.php` provides a secure and robust solution.
